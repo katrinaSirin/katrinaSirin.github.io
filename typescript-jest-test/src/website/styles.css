@@ -1,0 +1,137 @@
+Reset default margin and padding
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set up fonts */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #ffdb58;
+    /* Gold color */
+    color: #333;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Style the navigation */
+nav {
+    background-color: #f0f0f0;
+    padding: 0.5em;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1em;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+}
+
+/* Style the main content */
+main {
+    padding: 2em;
+}
+
+/* Style section headings */
+h2 {
+    color: #333;
+    margin-bottom: 1em;
+}
+
+/* Style paragraph text */
+p {
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Style address text */
+address {
+    font-style: italic;
+    color: #777;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style images */
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+    /* Add some spacing around the images */
+}
+
+/* Style the sidebar */
+.sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center content vertically */
+    text-align: center;
+    /* Center content horizontally */
+}
+
+/* Center the buttons */
+.sidebar-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* Align buttons to the left */
+}
+
+/* Style the button */
+.sidebar-button {
+    margin: 0.5em 0;
+    padding: 0.5em 1em;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.sidebar-button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sidebar-button:hover {
+    background-color: #0056b3;
+}
+
+body,
+h1,
+h2,
+p,
+ul,
+li,
+address {
+    text-align: center;
+}

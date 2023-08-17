@@ -1,0 +1,27 @@
+url,status,redirects,error
+google.com,true,http://www.google.com/,https://www.google.com/?gws_rd=ssl
+www.lgt-trust.com,false,no_redirects,getaddrinfo ENOTFOUND www.lgt-trust.com
+www.hammonosborne.co.uk,false,no_redirects,getaddrinfo ENOTFOUND www.hammonosborne.co.uk
+glassrpske.com,true,no_redirects
+www.leafspace.eu,true,https://leaf.space/
+euro-allianceyug.ru,false,no_redirects,timeout of 3000ms exceeded
+www.dx-por.pt,false,no_redirects,getaddrinfo ENOTFOUND www.dx-por.pt
+www.microfan.nl,true,https://microfan.com/
+www.remontnik.ru,false,no_redirects,Request failed with status code 403
+www.besseling.com,true,https://www.besseling.com/,https://besseling.com/
+www.zhilabs.com,false,no_redirects,unable to verify the first certificate
+phlgroup.co.uk,false,no_redirects,timeout of 3000ms exceeded
+www.fischerkerrn.com,true,https://fischerkerrn.com/
+yargpm.ru,true,https://yargpm.ru/
+procope.no,false,no_redirects,Request failed with status code 404
+galianiblas-torrejon.pymes.com,false,no_redirects,getaddrinfo ENOTFOUND galianiblas-torrejon.pymes.com
+www.unity.co.uk,true,https://www.unity.co.uk/
+www.brammer.pl,true,https://www.brammer.pl/
+thornaes.com,true,https://thornaes.com/
+www.dvtl.co.uk,false,no_redirects,getaddrinfo ENOTFOUND www.dvtl.co.uk
+www.glos.com,true,https://gloswielkopolski.pl/
+www.ctlondon.com,true,https://www.ctlondon.com/,https://www.ct-group.com/uk,https://www.ct-group.com/uk/
+seralwall.it,false,no_redirects,getaddrinfo ENOTFOUND seralwall.it
+www.interceptorsolutions.com,true,https://www.interceptorsolutions.com/
+www.pakko.ua,false,no_redirects,getaddrinfo ENOTFOUND www.pakko.ua
+blueprintgenetics.com,true,https://blueprintgenetics.com/
